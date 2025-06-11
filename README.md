@@ -5,11 +5,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <p align="center">
-  Uma aplicação web moderna para consulta de previsão do tempo em tempo real, construída com tecnologias de ponta do ecossistema JavaScript.
+  Uma aplicação web moderna para consulta de previsão do tempo em tempo real, construída com tecnologias de ponta do ecossistema REACT.
 </p>
 
 <p align="center">
-  <img src="./caminho/para/seu/gif-ou-screenshot.png" alt="Demonstração do Clima App" width="80%">
+  <img src="./public/preview.png" alt="Demonstração do Clima App" width="80%">
 </p>
 
 ## ✨ Funcionalidades
@@ -20,6 +20,7 @@
 - **Design Responsivo**: Interface adaptável para uma ótima experiência tanto em desktops quanto em dispositivos móveis.
 - **Notificações Inteligentes**: Avisos na tela para erros, como cidades não encontradas.
 - **Interface Dinâmica**: Elementos que se movem e se ajustam após a busca para uma melhor visualização dos dados.
+- **Validação de Dados**: Mostra uma mensagem de erro caso a cidade seja invalida ou fique vazia.
 
 ## 🔧 Tecnologias Utilizadas
 
@@ -40,12 +41,12 @@ Siga os passos abaixo para rodar o projeto em seu ambiente local.
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone https://github.com/PedrooLukas/Previs-o-do-Clima
 ```
 
 **2. Navegue até a pasta do projeto:**
 ```bash
-cd seu-repositorio
+cd Previs-o-do-Clima
 ```
 
 **3. Instale as dependências:**
@@ -77,4 +78,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ❤️ por **[Seu Nome]**.
+Feito por Pedro Lukas.
