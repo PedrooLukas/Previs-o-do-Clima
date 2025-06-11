@@ -12,10 +12,10 @@ const Forecast = ({ info5 }) => {
 
   return (
     <div className="mt-8 text-white w-full">
-      <h2 className="text-2xl font-bold mb-4 text-center">
+      <h2 className="text-[22px] md:text-[32px] font-bold mb-4 text-center">
         Previsão para os próximos 5 dias
       </h2>
-      <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+      <div className="lg:grid lg:grid-cols-2 lg:grid-cols-5 lg:gap-4 grid gap-4">
         {dailyForecasts.map((item) => (
           <div
             key={item.dt}
